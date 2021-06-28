@@ -27,3 +27,5 @@
 2.3 Создать опорный конспект лекции Дэвида Бизли (dabeaz.com/coroutines/),
 посвященной сопрограммам (корутинам). Оформить конспект средствами
 IPython Notebook и опубликовать в портфолио.
+
+[Выполненное задание](https://colab.research.google.com/drive/1G3z2EfbVzyNupw29DNoeaMP8ZXelghs1?usp=sharing)
